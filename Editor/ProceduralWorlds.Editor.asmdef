@@ -1,0 +1,12 @@
+{
+  "name": "ProceduralWorlds.Editor",
+  "rootNamespace": "ProceduralWorlds.Editor",
+  "references": [
+    "ProceduralWorlds.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true,
+  "overrideReferences": false
+}

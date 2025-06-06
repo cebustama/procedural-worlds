@@ -1,0 +1,10 @@
+{
+  "name": "ProceduralWorlds.Runtime",
+  "rootNamespace": "ProceduralWorlds",
+  "references": [
+    "Unity.Mathematics",
+    "Unity.Collections",
+    "Unity.Burst"
+  ],
+  "autoReferenced": true
+}
